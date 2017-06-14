@@ -1,4 +1,5 @@
-# Proactive Computer Security 2017
+# Announcements
+Below are the announcements made on the course forum.
 
 
 ## Welcome
