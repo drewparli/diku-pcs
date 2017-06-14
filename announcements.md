@@ -78,12 +78,3 @@ Hey everyone,
 Due to the delay in getting the ROP assignment ready (sorry!), the deadline for handing it in will be extended for everyone by 24 hours.
 
 The final assignment release will probably be late as well, and its deadline will be similarly extended if needed.
-
-
-
-
-
-
-
-
-
