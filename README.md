@@ -1,7 +1,7 @@
 # Proactive Computer Security 2017
 
-WELCOME
-====
+
+##Welcome
 Dear Students,
 
 Welcome to the course Proactive Computer Security.
@@ -20,18 +20,14 @@ PCS Teaching Team
 
 
 
-REMEMBER MEET'N'GROUP
-====
-
+##Remember Meet'N'Group
 Just a friendly reminder that there is a Meet'N'Group in Aud 6, HCØ.
 
 Kristoffer and I will be there from 10:15, to answer questions about dates, the list of suggested topics, and life in general.
 
 
 
-NEW DEADLINES
-====  
-
+##New Deadlines
 Two things:
 
 I have changes the deadline for the presentation sign-up so that it is at 13:00 (rather than 23:59) tomorrow (Friday). It is my plan to make the schedule for the presentations tomorrow afternoon. Again, the most important part right now is to form the groups and decide the dates. You'll be able to change topics later if you want to.
